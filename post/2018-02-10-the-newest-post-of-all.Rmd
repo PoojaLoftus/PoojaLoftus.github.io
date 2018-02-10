@@ -1,0 +1,23 @@
+---
+title: Intro to Cluster Analysis in R and Stata
+author: ~
+date: '2018-02-10'
+slug: intro-to-cluster-analysis
+categories: [stats]
+tags: [example, stats, stata, R]
+#subtitle: ''
+---
+
+The focus here will on how to implement cluster analysis in R and in Stata. There is often a great deal of confusion related to clustering- when to use it, which type of clustering algorithm to use, how to implement it, and how to interpert the results.
+
+
+
+# something
+
+## subsomething
+
+`this looks like code` but isn't
+
+```{r}
+1+1
+```
